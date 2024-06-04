@@ -1,2 +1,2 @@
 # code_challange
-Pre code challange.
+Code challange.
